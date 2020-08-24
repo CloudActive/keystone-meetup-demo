@@ -1,5 +1,36 @@
 # @keystonejs/demo-project-meetup
 
+## 6.2.2
+
+### Patch Changes
+
+- Updated dependencies [[`25f50dadc`](https://github.com/keystonejs/keystone/commit/25f50dadc07d888de18d485244c84d17462dce2e), [`d38c9174f`](https://github.com/keystonejs/keystone/commit/d38c9174f8146ad6e268be87cf5d54d5074bc593), [`fba90ac5d`](https://github.com/keystonejs/keystone/commit/fba90ac5db7328e952c44cb7c0bb8db76dd954b8), [`e8b2e4772`](https://github.com/keystonejs/keystone/commit/e8b2e477206acffb143f19fb14be1e3b4cd0eb91), [`18caa44b8`](https://github.com/keystonejs/keystone/commit/18caa44b8603a424f6e7d700c6c4340a92d02451), [`f714ac1e2`](https://github.com/keystonejs/keystone/commit/f714ac1e2c49ef44d756e35042bdb7da6db589a7), [`c243839c1`](https://github.com/keystonejs/keystone/commit/c243839c12abc8cffe8ff788fe57dcb880dc3a41)]:
+  - @keystonejs/keystone@14.0.0
+  - @keystonejs/fields@17.0.0
+  - @keystonejs/app-admin-ui@7.3.2
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.6
+  - @keystonejs/adapter-mongoose@9.0.3
+  - @keystonejs/auth-password@5.1.14
+  - @keystonejs/fields-cloudinary-image@1.0.2
+
+## 6.2.1
+
+### Patch Changes
+
+- [`30bfdc158`](https://github.com/keystonejs/keystone/commit/30bfdc1586009cca8ff027b95fc68063047e8621) [#3372](https://github.com/keystonejs/keystone/pull/3372) Thanks [@singhArmani](https://github.com/singhArmani)! - **Fixed the `CloudinaryImage` field import in meetup demo**
+
+  The `CloudinaryImage` was wrongly imported from `@keystonejs/fields` package causing an invalid type error.
+
+  This change imports it correctly from `@keystonejs/fields-cloudinary-image`.
+
+- Updated dependencies [[`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25), [`3db2f3956`](https://github.com/keystonejs/keystone/commit/3db2f395688342fe9a1dda14be5ce8308c9c39a6), [`7e78ffdaa`](https://github.com/keystonejs/keystone/commit/7e78ffdaa96050e49e8e2678a3c4f1897fedae4f), [`72cd47b35`](https://github.com/keystonejs/keystone/commit/72cd47b357052b69e1d525758ff8a1a0cf44c5c2), [`7b0875723`](https://github.com/keystonejs/keystone/commit/7b0875723783780988f2dee4e5ee406a3b44ca98), [`2f76473ae`](https://github.com/keystonejs/keystone/commit/2f76473ae045b1d8b48688ac6de842c51a2fc345), [`0369985e3`](https://github.com/keystonejs/keystone/commit/0369985e320afd6112f2664f8a8edc1ed7167130), [`9338f3739`](https://github.com/keystonejs/keystone/commit/9338f3739ecff5f626a713a06ce65c1e29888d25), [`7422922f5`](https://github.com/keystonejs/keystone/commit/7422922f5649a2b52699f67a77645e9c91800688), [`df8f92a37`](https://github.com/keystonejs/keystone/commit/df8f92a378d2d787f5bee774f013767c09ec35cf), [`cc5bb8915`](https://github.com/keystonejs/keystone/commit/cc5bb891579281338ad7fad0873531be81d877d4), [`1b3943e4f`](https://github.com/keystonejs/keystone/commit/1b3943e4f66c61c446085736949c6b83e9087afb), [`b300720eb`](https://github.com/keystonejs/keystone/commit/b300720eb4e079bc30efb17ed3b48ab71cadc160)]:
+  - @keystonejs/fields@16.1.0
+  - @keystonejs/adapter-mongoose@9.0.2
+  - @keystonejs/server-side-graphql-client@1.1.1
+  - @keystonejs/file-adapters@7.0.3
+  - @keystonejs/keystone@13.1.1
+  - @keystonejs/app-admin-ui@7.3.1
+
 ## 6.2.0
 
 ### Minor Changes
