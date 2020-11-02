@@ -1,6 +1,3 @@
-packages/test-project/public
-demo-projects/test-project
-
 # Logs
 logs
 *.log
@@ -109,9 +106,8 @@ tags
 
 # End of https://www.gitignore.io/api/vim
 
-projects/
 temp/
-
-.api-test-prisma-clients
-
+/public
+/dist
+.cache
 .next

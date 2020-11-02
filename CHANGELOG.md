@@ -1,5 +1,125 @@
 # @keystonejs/demo-project-meetup
 
+## 6.2.8
+
+### Patch Changes
+
+- Updated dependencies [[`e5efd0ef3`](https://github.com/keystonejs/keystone/commit/e5efd0ef3d6943534cb6c728afe5dbf0caf43e74), [`e5efd0ef3`](https://github.com/keystonejs/keystone/commit/e5efd0ef3d6943534cb6c728afe5dbf0caf43e74)]:
+  - @keystonejs/adapter-mongoose@10.0.0
+  - @keystonejs/fields@19.0.0
+  - @keystonejs/fields-cloudinary-image@2.0.1
+  - @keystonejs/app-admin-ui@7.3.8
+  - @keystonejs/auth-password@5.1.16
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.12
+
+## 6.2.7
+
+### Patch Changes
+
+- Updated dependencies [[`481329c2b`](https://github.com/keystonejs/keystone/commit/481329c2bd404419efddfd0ed6f3db9a86a30f91), [`01b79349e`](https://github.com/keystonejs/keystone/commit/01b79349e625870193933aa044bdf27f8c75753e), [`48623ae44`](https://github.com/keystonejs/keystone/commit/48623ae44568bae1af2861003fa9922a0118cc57), [`a02e69987`](https://github.com/keystonejs/keystone/commit/a02e69987902cfde38d820e68cb24b7a20ca1f6f), [`966b5bc70`](https://github.com/keystonejs/keystone/commit/966b5bc7003e0f580528c4dcd46647cc4124b592), [`f70c9f1ba`](https://github.com/keystonejs/keystone/commit/f70c9f1ba7452b54a15ab71943a3777d5b6dade4), [`5799f3e48`](https://github.com/keystonejs/keystone/commit/5799f3e483fdf7db8ab1f868b26628fa85bbbb43), [`cc56990f2`](https://github.com/keystonejs/keystone/commit/cc56990f2e9a4ecf0c112362e8d472b9286f76bc), [`df0687184`](https://github.com/keystonejs/keystone/commit/df068718456d23819a7cae491870be4560b2010d), [`cc56990f2`](https://github.com/keystonejs/keystone/commit/cc56990f2e9a4ecf0c112362e8d472b9286f76bc)]:
+  - @keystonejs/email@5.2.0
+  - @keystonejs/app-admin-ui@7.3.7
+  - @keystonejs/fields@18.0.0
+  - @keystonejs/adapter-mongoose@9.0.8
+  - @keystonejs/fields-cloudinary-image@2.0.0
+  - @keystonejs/file-adapters@7.0.8
+  - @keystonejs/keystone@17.0.0
+  - @keystonejs/auth-password@5.1.15
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.11
+
+## 6.2.6
+
+### Patch Changes
+
+- [`92b34a74e`](https://github.com/keystonejs/keystone/commit/92b34a74e699e3a101f53064e52932b7daeccbfc) [#3640](https://github.com/keystonejs/keystone/pull/3640) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `apollo-upload-client` to `^14.1.2`.
+
+* [`b32f006ad`](https://github.com/keystonejs/keystone/commit/b32f006ad283f8aa1911f55bbecac9942f3f9f25) [#3666](https://github.com/keystonejs/keystone/pull/3666) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `@apollo/client` to `^3.2.0`.
+
+- [`304701d7c`](https://github.com/keystonejs/keystone/commit/304701d7c23e98c8dc40c0f3f5512a0370107c06) [#3585](https://github.com/keystonejs/keystone/pull/3585) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `graphql` to `^15.3.0`.
+
+- Updated dependencies [[`92b34a74e`](https://github.com/keystonejs/keystone/commit/92b34a74e699e3a101f53064e52932b7daeccbfc), [`b32f006ad`](https://github.com/keystonejs/keystone/commit/b32f006ad283f8aa1911f55bbecac9942f3f9f25), [`6f42b0a9d`](https://github.com/keystonejs/keystone/commit/6f42b0a9d231049f9e7523eb78ec621d9c9d6df9), [`4d8b4a04e`](https://github.com/keystonejs/keystone/commit/4d8b4a04ef2f5ab616cc425e87e75e9a5bbf6abe), [`95d05dd13`](https://github.com/keystonejs/keystone/commit/95d05dd1328e397b45c69723ce037d174595881d), [`06dffc42b`](https://github.com/keystonejs/keystone/commit/06dffc42b08062e3166880146c8fb606493ead12), [`27783bbca`](https://github.com/keystonejs/keystone/commit/27783bbca3b1c5ff05402738c14ffa8db73e542b), [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4), [`83007be79`](https://github.com/keystonejs/keystone/commit/83007be798ebd751d7eb708cde366dc35999af72), [`a14283b9c`](https://github.com/keystonejs/keystone/commit/a14283b9c9d80e8a38adede567695bf7e89cbcb9), [`38e3ad9c3`](https://github.com/keystonejs/keystone/commit/38e3ad9c3e7124d06f11c7046821c857cf7f9ad2), [`16f271f5f`](https://github.com/keystonejs/keystone/commit/16f271f5fdfc697fb8f9760922626e313ce25971), [`6f42b0a9d`](https://github.com/keystonejs/keystone/commit/6f42b0a9d231049f9e7523eb78ec621d9c9d6df9), [`5c1e55721`](https://github.com/keystonejs/keystone/commit/5c1e5572134fa93c9aefbb537676e30cafd0e7d9), [`304701d7c`](https://github.com/keystonejs/keystone/commit/304701d7c23e98c8dc40c0f3f5512a0370107c06), [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4), [`d95010eea`](https://github.com/keystonejs/keystone/commit/d95010eea35f40274f412dad5c2fed6b16ae6c60), [`6a7395d58`](https://github.com/keystonejs/keystone/commit/6a7395d5848c6630b8e3943bcd9e3245aa6e2574), [`1c99f76d3`](https://github.com/keystonejs/keystone/commit/1c99f76d3c1dc02e08c3e39259c39cfd89d829a3), [`aa5b4aa26`](https://github.com/keystonejs/keystone/commit/aa5b4aa269eebc6931d30f6eddc315805c1f4fef), [`b6e160678`](https://github.com/keystonejs/keystone/commit/b6e160678b449707261a54a9d565b91663784831), [`104232785`](https://github.com/keystonejs/keystone/commit/104232785aac856be6a3ba55f8fa0fd8357237ed), [`7d17e861c`](https://github.com/keystonejs/keystone/commit/7d17e861cb3f3a820889ff7c925db1aa875ef473), [`287e031fa`](https://github.com/keystonejs/keystone/commit/287e031facafe66ef71b0f6d6ee558904251589f), [`7956d5da0`](https://github.com/keystonejs/keystone/commit/7956d5da00197dc11f5d54f7870b8fa72c05a3c0)]:
+  - @keystonejs/app-admin-ui@7.3.6
+  - @keystonejs/fields@17.1.3
+  - @keystonejs/file-adapters@7.0.7
+  - @keystonejs/fields-cloudinary-image@1.0.6
+  - @keystonejs/adapter-mongoose@9.0.7
+  - @keystonejs/keystone@16.0.0
+  - @keystonejs/app-graphql@6.1.3
+  - @keystonejs/email@5.1.9
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.10
+
+## 6.2.5
+
+### Patch Changes
+
+- [`4f6883dc3`](https://github.com/keystonejs/keystone/commit/4f6883dc38962805f96256f9fdf42fb77bb3326a) [#3610](https://github.com/keystonejs/keystone/pull/3610) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `prettier` to `^2.1.1`.
+
+* [`fe054e53e`](https://github.com/keystonejs/keystone/commit/fe054e53e71f13a69af1d6dd2a1cd8c68bb31059) [#3635](https://github.com/keystonejs/keystone/pull/3635) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `@apollo/client` to `^3.1.5`.
+
+* Updated dependencies [[`8b0fd66bb`](https://github.com/keystonejs/keystone/commit/8b0fd66bbd73a99a4ed321ce737b5dc33e2d11d3), [`4f6883dc3`](https://github.com/keystonejs/keystone/commit/4f6883dc38962805f96256f9fdf42fb77bb3326a), [`dd49d2c04`](https://github.com/keystonejs/keystone/commit/dd49d2c040ea8fb8dfc36d2e556be88ca1b74b15), [`d7eac6629`](https://github.com/keystonejs/keystone/commit/d7eac662956fc2dffd9ea5cfedf60e51ecc1b80d), [`8bd44758a`](https://github.com/keystonejs/keystone/commit/8bd44758ac742c95f42151c9fbc16700b698e8e4), [`8cae7cff5`](https://github.com/keystonejs/keystone/commit/8cae7cff513187ec6e740c4b17afb2b753fe625a), [`3599776bd`](https://github.com/keystonejs/keystone/commit/3599776bd160e7b46ceca3d81a22ddb6bd7941a2), [`77aa2d7d1`](https://github.com/keystonejs/keystone/commit/77aa2d7d156a83759a7f3c26e8c5bd019966b054), [`ddf5f6ae9`](https://github.com/keystonejs/keystone/commit/ddf5f6ae9418ff0c14de2273e329eed5441ce5bb), [`7908f5be6`](https://github.com/keystonejs/keystone/commit/7908f5be608f1debf625f1db3c68a1121e2b320a), [`7c47967d3`](https://github.com/keystonejs/keystone/commit/7c47967d3f8a6e0026f9cd0108ff1dafc8d331b9), [`4e9cf67c2`](https://github.com/keystonejs/keystone/commit/4e9cf67c235f58f9158facac1b5ce9830905b9ef), [`c08200087`](https://github.com/keystonejs/keystone/commit/c082000871947eb0a2415ac7355c89bc7b277383), [`f0d91f9f2`](https://github.com/keystonejs/keystone/commit/f0d91f9f285df3379011b6f450a6a70c3fbb3170), [`d07f6bfb6`](https://github.com/keystonejs/keystone/commit/d07f6bfb6b3bd65036c2030d2758abdf4eca1a9e), [`fe054e53e`](https://github.com/keystonejs/keystone/commit/fe054e53e71f13a69af1d6dd2a1cd8c68bb31059), [`379c78240`](https://github.com/keystonejs/keystone/commit/379c78240d788875d97642e1f53120818ad64aff)]:
+  - @keystonejs/server-side-graphql-client@1.1.2
+  - @keystonejs/app-admin-ui@7.3.5
+  - @keystonejs/fields@17.1.2
+  - @keystonejs/file-adapters@7.0.6
+  - @keystonejs/keystone@15.0.0
+  - @keystonejs/fields-cloudinary-image@1.0.5
+  - @keystonejs/email@5.1.8
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.9
+  - @keystonejs/adapter-mongoose@9.0.6
+
+## 6.2.4
+
+### Patch Changes
+
+- [`cd15192cd`](https://github.com/keystonejs/keystone/commit/cd15192cdae5e476f64a257c196ca569a9440d5a) [#3510](https://github.com/keystonejs/keystone/pull/3510) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `graphql` to `^14.7.0`.
+
+* [`4fc501203`](https://github.com/keystonejs/keystone/commit/4fc501203226a549e41a696985c68b2ba3af74a4) [#3558](https://github.com/keystonejs/keystone/pull/3558) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `next` to `^9.5.3`.
+
+- [`a42ee3a30`](https://github.com/keystonejs/keystone/commit/a42ee3a306c899a7ae46909fe132522cbeff7812) [#3508](https://github.com/keystonejs/keystone/pull/3508) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `date-fns` to `^2.16.1`.
+
+* [`639a11f75`](https://github.com/keystonejs/keystone/commit/639a11f75e6667b421624875ecd312a9fbf87abe) [#3534](https://github.com/keystonejs/keystone/pull/3534) Thanks [@MadeByMike](https://github.com/MadeByMike)! - Renamed `demo-projects` folder to `examples` to allow for future smaller focused examples.
+
+- [`28b88abd3`](https://github.com/keystonejs/keystone/commit/28b88abd369f0df12eae72107db7c24323eda4b5) [#3507](https://github.com/keystonejs/keystone/pull/3507) Thanks [@renovate](https://github.com/apps/renovate)! - Updated Apollo GraphQL packages dependencies.
+
+- Updated dependencies [[`e8e2baa7b`](https://github.com/keystonejs/keystone/commit/e8e2baa7b1a9330cb483c2f30682d64f857d314c), [`cd15192cd`](https://github.com/keystonejs/keystone/commit/cd15192cdae5e476f64a257c196ca569a9440d5a), [`7bfdb79ee`](https://github.com/keystonejs/keystone/commit/7bfdb79ee43235418f098e5fe7412968dcf6c397), [`5fb75bab6`](https://github.com/keystonejs/keystone/commit/5fb75bab638c59ccf690c46d862b9801bf1d28f6), [`4fc501203`](https://github.com/keystonejs/keystone/commit/4fc501203226a549e41a696985c68b2ba3af74a4), [`7fb51fba4`](https://github.com/keystonejs/keystone/commit/7fb51fba4682ded82df99330b4fe69b8bad0a2ce), [`d500613d8`](https://github.com/keystonejs/keystone/commit/d500613d8917e3cbcea2817501d607eddd3b1a8d), [`6c97a5534`](https://github.com/keystonejs/keystone/commit/6c97a5534e8a18d15aeac8b0471810fdd4d04f80), [`3a1f4d1e2`](https://github.com/keystonejs/keystone/commit/3a1f4d1e26bfa6cb553761b42a7f05d09a41a3b4), [`729e897e6`](https://github.com/keystonejs/keystone/commit/729e897e689f2673f38d6c0caf22e7cee7ee8ff3), [`34fcc7052`](https://github.com/keystonejs/keystone/commit/34fcc7052a24db61f1f2f12c46110c060934f4ca), [`d3a4f9263`](https://github.com/keystonejs/keystone/commit/d3a4f9263de0d11a1613e420f660eccc2a48172d), [`743646a59`](https://github.com/keystonejs/keystone/commit/743646a59c91d02d09000bb21c80e6311bc12645), [`a21517ece`](https://github.com/keystonejs/keystone/commit/a21517ecee1e3bca6909ca996057b98833ea9313), [`40b751ad6`](https://github.com/keystonejs/keystone/commit/40b751ad6f09aec137ef42df10fdbb1240173afb), [`c3488c5e8`](https://github.com/keystonejs/keystone/commit/c3488c5e88628b15eb9fe804551c3c5c44c07e0f), [`e62b3308b`](https://github.com/keystonejs/keystone/commit/e62b3308bd841b5f58ac9fa1f84707f9187fda6b), [`7036585f2`](https://github.com/keystonejs/keystone/commit/7036585f25c3b690b7a6fd04c39b5b781ff5bcd9), [`2e6a06202`](https://github.com/keystonejs/keystone/commit/2e6a06202299b36c36fd3efd895f2280479eac31), [`a42ee3a30`](https://github.com/keystonejs/keystone/commit/a42ee3a306c899a7ae46909fe132522cbeff7812), [`d71f98791`](https://github.com/keystonejs/keystone/commit/d71f987917509a206b1e0a994dbc6641a7cf4e06), [`438051442`](https://github.com/keystonejs/keystone/commit/4380514421020f4418a9f966c9fec60e014478b9), [`b3aa85031`](https://github.com/keystonejs/keystone/commit/b3aa850311cbc1622568f69f9cb4b9f46ab9db22), [`518718e19`](https://github.com/keystonejs/keystone/commit/518718e197d0a2d723c8e184552ddd5d8e165f12), [`16fba3b98`](https://github.com/keystonejs/keystone/commit/16fba3b98271410e570a370f610da7cd0686f294), [`28b88abd3`](https://github.com/keystonejs/keystone/commit/28b88abd369f0df12eae72107db7c24323eda4b5), [`16e4d91a2`](https://github.com/keystonejs/keystone/commit/16e4d91a20cc6a079c60ea9801381da55444b1e1), [`5e5ba0b86`](https://github.com/keystonejs/keystone/commit/5e5ba0b869924826adf640e6b1eb1608101e8a8e)]:
+  - @keystonejs/app-admin-ui@7.3.4
+  - @keystonejs/app-graphql@6.1.2
+  - @keystonejs/fields@17.1.1
+  - @keystonejs/keystone@14.0.2
+  - @keystonejs/app-next@5.2.3
+  - @keystonejs/file-adapters@7.0.5
+  - @keystonejs/fields-cloudinary-image@1.0.4
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.8
+  - @keystonejs/email@5.1.7
+  - @keystonejs/adapter-mongoose@9.0.5
+
+## 6.2.3
+
+### Patch Changes
+
+- [`6cb4476ff`](https://github.com/keystonejs/keystone/commit/6cb4476ff15923933862c1cd7d4b1ade794106c6) [#3481](https://github.com/keystonejs/keystone/pull/3481) Thanks [@Noviny](https://github.com/Noviny)! - Updated dependencies through a major version - this shouldn't require change by consumers.
+
+* [`5935b89f8`](https://github.com/keystonejs/keystone/commit/5935b89f8862b36f14d09da68f056f759a860f3e) [#3477](https://github.com/keystonejs/keystone/pull/3477) Thanks [@Noviny](https://github.com/Noviny)! - Updating dependencies:
+
+  These changes bring the keystone dev experience inline with installing keystone from npm :D
+
+- [`db0797f7f`](https://github.com/keystonejs/keystone/commit/db0797f7f442c2c42cc941633930de527c722f48) [#3465](https://github.com/keystonejs/keystone/pull/3465) Thanks [@timleslie](https://github.com/timleslie)! - Removed unused body-parser dependency.
+
+* [`877a5a90d`](https://github.com/keystonejs/keystone/commit/877a5a90d608f0a13b6c0ea103cb96e3ac2caacc) [#3438](https://github.com/keystonejs/keystone/pull/3438) Thanks [@renovate](https://github.com/apps/renovate)! - Updated Apollo GraphQL package dependencies.
+
+* Updated dependencies [[`6cb4476ff`](https://github.com/keystonejs/keystone/commit/6cb4476ff15923933862c1cd7d4b1ade794106c6), [`5935b89f8`](https://github.com/keystonejs/keystone/commit/5935b89f8862b36f14d09da68f056f759a860f3e), [`db0797f7f`](https://github.com/keystonejs/keystone/commit/db0797f7f442c2c42cc941633930de527c722f48), [`ac44568f9`](https://github.com/keystonejs/keystone/commit/ac44568f91fd54ccbc39accf83bcfb3276ce1a72), [`64d745013`](https://github.com/keystonejs/keystone/commit/64d745013fd2cccc1fb14c4f02ac84778b5c9abc), [`877a5a90d`](https://github.com/keystonejs/keystone/commit/877a5a90d608f0a13b6c0ea103cb96e3ac2caacc), [`483b20ec5`](https://github.com/keystonejs/keystone/commit/483b20ec53ff89f1d026c0495fdae5df60a7cf59), [`0fc878fa9`](https://github.com/keystonejs/keystone/commit/0fc878fa918c3196196f943f195ffaa62fce504b), [`ea367f759`](https://github.com/keystonejs/keystone/commit/ea367f7594f47efc3528d9917cce010b3a16bf4d), [`69d627813`](https://github.com/keystonejs/keystone/commit/69d627813adfc10d29707f5c882ca15621de12a5), [`dc689f9ac`](https://github.com/keystonejs/keystone/commit/dc689f9ac8e213137dfed9e81992bbe4318b44ae), [`07e246d15`](https://github.com/keystonejs/keystone/commit/07e246d15586dede7fa9a04bcc13020c8c5c3a25), [`7f04d9dd2`](https://github.com/keystonejs/keystone/commit/7f04d9dd21ad792b540d9e0a5d83356c091597ad), [`0153168d7`](https://github.com/keystonejs/keystone/commit/0153168d73ce8cd7ede4eb9c8518e5e2bf859709)]:
+  - @keystonejs/adapter-mongoose@9.0.4
+  - @keystonejs/email@5.1.6
+  - @keystonejs/fields@17.1.0
+  - @keystonejs/file-adapters@7.0.4
+  - @keystonejs/keystone@14.0.1
+  - @keystonejs/app-admin-ui@7.3.3
+  - @keystonejs/app-next@5.2.2
+  - @keystonejs/fields-cloudinary-image@1.0.3
+  - @keystonejs/fields-wysiwyg-tinymce@5.3.7
+  - @keystonejs/session@8.1.1
+  - @keystonejs/app-graphql@6.1.1
+
 ## 6.2.2
 
 ### Patch Changes
